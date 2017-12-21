@@ -1,0 +1,7 @@
+普通用户 更改
+用户ID：HE1712171333071803
+暂时还没有购买服务     购买
+认证key：a002b26183da45828d19eb6f190dae20      修改 每月只能修改一次
+
+代码仓库上项目的地址是
+https://github.com/lijava2002/coolweather
